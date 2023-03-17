@@ -33,10 +33,10 @@ export const data = [
     name: "Eurofighter Typhoon",
     img: "http://graphics.wsj.com/how-the-worlds-best-fighter-jets-measure-up/img/eurofighter.jpg",
     statistics: [
-      "Manufacturer: Lockheed Martin",
+      "Manufacturer: Eurofighter GmbH",
       "Max Speed:	2.0 Mach",
       "Range:	1,841 miles",
-      "Made In: Europe,",
+      "Made In: Europe",
     ],
   },
   {
@@ -46,7 +46,7 @@ export const data = [
       "Manufacturer: Dassault",
       "Max Speed:	1.8 Mach",
       "Range:	1,941 miles",
-      "Made In: France,",
+      "Made In: France",
     ],
   },
   {
@@ -56,7 +56,7 @@ export const data = [
       "Manufacturer: Sukhoi",
       "Max Speed:	2.0 Mach",
       "Range:	2,474 miles",
-      "Made In: Russia,",
+      "Made In: Russia",
     ],
   },
   {
@@ -66,7 +66,7 @@ export const data = [
       "Manufacturer: Boeing",
       "Max Speed:	2.0 Mach",
       "Range:	2,400 miles",
-      "Made In: US,",
+      "Made In: US",
     ],
   },
   {
@@ -76,7 +76,7 @@ export const data = [
       "Manufacturer: Boeing",
       "Max Speed:	1.8 Mach",
       "Range:	1,275 miles",
-      "Made In: US,",
+      "Made In: US",
     ],
   },
   {
